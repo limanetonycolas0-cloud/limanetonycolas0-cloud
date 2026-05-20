@@ -1,7 +1,7 @@
 # ☕💻 Nycolas
 **`Desenvolvedor Back End`**
 
-Me chamo Nycolas, tenho 20 anos de idade e estou atualmente cursando
+Me chamo Nicolas, tenho 20 anos de idade e estou atualmente cursando
 Análise e Desenvolvimento de Sistemas na Universidade Anhanguera.
 Sou um apaixonado por tecnologia e um perfil curioso e focado.
 Invisto meu tempo aqui para criar projetos com intuito de aprender mais.
