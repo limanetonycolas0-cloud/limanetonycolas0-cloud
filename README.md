@@ -1,7 +1,7 @@
 # ☕💻 Nycolas
 **`Desenvolvedor Back End`**
 
-Me chamo Nicolas, tenho 20 anos de idade e estou atualmente cursando
+Me chamo Nycolas, tenho 20 anos de idade e estou atualmente cursando
 Análise e Desenvolvimento de Sistemas na Universidade Anhanguera.
 Sou um apaixonado por tecnologia e um perfil curioso e focado.
 Invisto meu tempo aqui para criar projetos com intuito de aprender mais.
@@ -27,8 +27,5 @@ Invisto meu tempo aqui para criar projetos com intuito de aprender mais.
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=limanetonycolas0-cloud&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=limanetonycolas0-cloud&layout=compact&theme=tokyonight"/>
-</p>
-  cloud&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-  />
+<img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=limanetonycolas0-cloud&layout=compact&theme=tokyonight"/>
 </p>
