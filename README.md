@@ -1,5 +1,5 @@
 # 💻 Nycolas
-**`Data Engineer`**
+**`back End Developer`**
 
 Me chamo Nycolas, tenho 20 anos de idade e estou atualmente cursando
 Análise e Desenvolvimento de Sistemas na Universidade Anhanguera.
